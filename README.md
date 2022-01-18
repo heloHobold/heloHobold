@@ -1,7 +1,7 @@
 ### Olá!👋
 
-- 📙 Cursando: Análise e Desenvolvimento de Sistemas
-- 😄 Pronomes: ela/dela
+- 📙 Formação: Técnico em Informática
+- 💻 Cursando: Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/heloHobold">
