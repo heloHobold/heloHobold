@@ -1,6 +1,6 @@
 ### Olá!👋
 
-- 📙 Formação: Técnico em Informática
+- 📙 Formação: Curso Técnico em Informática
 - 💻 Cursando: Análise e Desenvolvimento de Sistemas
 
 <div align="center">
