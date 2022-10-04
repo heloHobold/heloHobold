@@ -1,7 +1,7 @@
 ### Olá!👋
 
 - 📙 Formação: Técnica em Informática
-- 💻 Cursando: Análise e Desenvolvimento de Sistemas 2/5
+- 💻 Cursando: Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/heloHobold">
