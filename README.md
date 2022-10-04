@@ -14,6 +14,7 @@
   <img align="center" alt="Helo-spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="Helo-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   <img align="center" alt="Helo-mongo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+  <img align="right" alt="Helo-gif" height="40" width="50" src="https://discord.com/channels/1026846140718661632/1026846141297479733/1026846245253300356" />
 </div> 
   
   ##
